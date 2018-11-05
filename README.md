@@ -4,7 +4,7 @@ GrapesBank is a Gui project.
 
 ## Getting Started
 
-To try my program you will need to download the GrapesBank.py file and the GrapesBank.gif file. Place the two files in the same folder and then boot the GrapesBank.py file.
+To use GrapesBank you will need to download the GrapesBank.py file and the GrapesBank.gif file. Place the two files in the same folder and then boot the GrapesBank.py file.
 
 
 ## Programs functions
