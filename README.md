@@ -1,6 +1,6 @@
 # GrapesBank
 
-One Paragraph of project description goes here
+GrapesBank is a Gui project.
 
 ## Getting Started
 
